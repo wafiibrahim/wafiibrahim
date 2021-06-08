@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wafiibrahim
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning a lot of things
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on building a website/app
 - 📫 How to reach me - Instagram- @wafiibrahim
 
