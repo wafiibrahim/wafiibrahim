@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wafiibrahim
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on building a website/app
-- 📫 How to reach me - Instagram- @wafiibrahim
+- 📫 How to reach me - Twitter- @wafiibrahim
 
 <!---
 wafiibrahim/wafiibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
