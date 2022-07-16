@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wafiibrahim
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on building a website/app
 - 📫 How to reach me - Twitter- @wafiibrahim
 
