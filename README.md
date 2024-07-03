@@ -1,4 +1,4 @@
-A Data Science Enthusiast with a background in Computer Science.
+A Cyber Security Enthusiast with a background in Computer Science.
 
 <!---
 wafiibrahim/wafiibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
